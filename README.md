@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👯 I’m looking to collaborate on learning / education
-- 💬 Ask me about PHP or Frontend Development, I can be a mentor
-- ⚡ Fun fact: I did a lot of Core PHP (without those libraries/frameworks) in my early career.
+- 👯 I’d love to collaborate on tech teaching/community. I'm currently handling the LaravelPH and Svelte Soc PH
+- 💬 Ask me about Frontend Development and maybe opportunities...
+- ⚡ Fun fact: I started out as PHP Dev and SysAd
 
