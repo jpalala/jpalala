@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/jpalala"><img src="https://api.daily.dev/devcards/981ad3565d494a8886779bed1a9d3ede.png?r=0ul" width="400" alt="Joe Palala's Dev Card"/></a>
+<a href="https://app.daily.dev/jpalala"><img src="https://api.daily.dev/devcards/981ad3565d494a8886779bed1a9d3ede.png?r=3ru" width="400" alt="Joe Palala's Dev Card"/></a>
 
 <!--
 **jpalala/jpalala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
