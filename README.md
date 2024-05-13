@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m the founder of Laravel Philippines
-- 🌱 I’m also learning SvelteJS! 
+- 🌱 I’m currently learning how to use cloud databases and AWS things! 
 - 👯 Building my portfolio page at http://palala.dev
 - 📫 Contact me via email at <a href="mailto:joe@palala.dev">joe@palala.dev</a>
 
