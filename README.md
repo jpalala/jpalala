@@ -10,7 +10,7 @@ I've spent most of my career building PHP-based websites, crafting code like a c
 *   ✉️  You can contact me at [joe@palala.dev](mailto:joe@palala.dev)
 *   🚀  I'm currently working on [werpa labs](http://werpalabs.com)
 *   🤝  I'm open to collaborating on UX and communities
-*   ⚡  Science Fiction is my thing. An Eccentric stuff.
+*   ⚡  My hobby is to imagine the world if it were a litte different. Science Fiction is my thing. A little weird maybe but I think its just I'm sometimes awkward.
 
 ### Skills 
           
