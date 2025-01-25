@@ -8,9 +8,9 @@ I've spent most of my career building PHP-based websites, crafting code like a c
 
 *   🌍  I'm based in the Philippines
 *   ✉️  You can contact me at [joe@palala.dev](mailto:joe@palala.dev)
-*   🚀  I'm currently working on [werpa labs](http://werpalabs.com)
-*   🤝  I'm open to collaborating on UX and communities
-*   ⚡  My hobby is to imagine the world if it were a litte different. Science Fiction is my thing. A little weird maybe but I think its just I'm sometimes awkward.
+*   🚀  I'm currently working on [launchiterably](http://launchiterably.com)
+*   🤝  I'm working currently with [Gappify](https://gappify.com).
+*   ⚡   Science Fiction is hobby and playing chess online.
 
 ### Skills 
           
