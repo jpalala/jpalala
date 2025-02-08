@@ -9,8 +9,8 @@ I've spent most of my career building PHP-based websites, crafting code like a c
 *   🌍  I'm based in the Philippines
 *   ✉️  You can contact me at [joe@palala.dev](mailto:joe@palala.dev)
 *   🚀  I'm currently working on [launchiterably](http://launchiterably.com)
-*   🤝  I'm working currently with [Gappify](https://gappify.com).
-*   ⚡   Science Fiction is hobby and playing chess online.
+*   🤝  I'm  currently working with [enablesGroup](https://enablesgroup.com).
+*   ⚡  My hobbies - talk to me about Sci-fi and chess. I'm a huge into Starwars and Startrek movies (since Picard movie)
 
 ### Skills 
           
