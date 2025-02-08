@@ -41,7 +41,7 @@ I've spent most of my career building PHP-based websites, crafting code like a c
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpalala)](https://github.com/jpalala)
 
-## Linux tips
+## Linux gists and other things
 
-https://gist.github.com/jpalala/fa835173230d31554a44bb0f10442052
+[My Kmonad setup notes](https://gist.github.com/jpalala/fa835173230d31554a44bb0f10442052)
 
