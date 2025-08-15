@@ -10,9 +10,9 @@ And as any good developer knows, debugging is just part of the meal! In fact, I 
 
 *   🌍  I'm based in the Philippines
 *   ✉️  You can contact me at [joe@palala.dev](mailto:joe@palala.dev)
-*   🚀  I'm currently working on [launchiterably](http://launchiterably.com)
+*   🚀  I'm like working with PHP and React
 *   🤝  I'm  currently working with [enablesGroup](https://enablesgroup.com).
-*   ⚡  My hobbies - talk to me about Sci-fi and chess. I'm a huge into Starwars and Startrek movies (since Picard movie)
+*   ⚡  My hobbies - talk to me about Sci-fi and chess. I'm a huge fan of Asimov. I like to play Sicilian Defense.
 
 ### Skills 
           
