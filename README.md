@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joe Palala
 ==================================================================================================================================
 
-Laravel Developer
+Laravel/PHP Developer
 -----------------
 
-I've spent most of my career building PHP-based websites, crafting code like a chef preparing the perfect dish. And as any good developer knows, debugging is just part of the meal! In fact, I like to say I eat bugs for breakfast—though not the crunchy kind, mind you. These are the little digital critters that try to break my code, and I squash them before my coffee even gets cold.
+I've spent most of my career building PHP-based websites, crafting code like a chef preparing the perfect dish. 
+
+And as any good developer knows, debugging is just part of the meal! In fact, I like to say I eat bugs for breakfast! These are the little digital critters that try to break my code, before the coffee gets cold, yo 🎼.
 
 *   🌍  I'm based in the Philippines
 *   ✉️  You can contact me at [joe@palala.dev](mailto:joe@palala.dev)
@@ -29,7 +31,7 @@ I've spent most of my career building PHP-based websites, crafting code like a c
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </picture>
   </a>
-    <a href="https://werpa.hashnode.dev" target="_blank" rel="noreferrer">
+    <a href="https://jpalala.hashnode.dev" target="_blank" rel="noreferrer">
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" />
