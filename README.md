@@ -11,7 +11,7 @@ And as any good developer knows, debugging is just part of the meal! In fact, I 
 *   🌍  I'm based in the Philippines
 *   ✉️  You can contact me at [joe@palala.dev](mailto:joe@palala.dev)
 *   🚀  I'm like working with PHP and React
-*   🤝  I'm  currently working with [enablesGroup](https://enablesgroup.com).
+*   🤝  I'm  currently looking for work.
 *   ⚡  My hobbies - talk to me about Sci-fi and chess. I'm a huge fan of Asimov. I like to play Sicilian Defense.
 
 ### Skills 
