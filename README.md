@@ -6,10 +6,10 @@ Laravel/PHP Developer
 
 I've spent most of my career building PHP-based websites, crafting code like a chef preparing the perfect dish. 
 
-And as any good developer knows, debugging is just part of the meal! In fact, I like to say I eat bugs for breakfast! These are the little digital critters that try to break my code, before the coffee gets cold, yo 🎼.
+And as any good developer knows, debugging is just part of the meal! In fact, I like to say I make unit tests to keep those little digital critters away. I'm not a fan of bugs, especially when they're a result of PHP's mixed types acting like TypeScript's any and using functions with willy-nilly argument orders like haystack and needle. The clock is ticking, and I like to stay on top of the latest technologies. I'm a big fan of :coffee: and would love to talk shop over coffee.
 
 *   🌍  I'm based in the Philippines
-*   ✉️  You can contact me at [joe@palala.dev](mailto:joe@palala.dev)
+*   ✉️  You can contact me at [joe@palala.deb](mailto:joe@palala.dev) or through my viber.
 *   🚀  I'm like working with PHP and React
 *   🤝  I'm  currently looking for work.
 *   ⚡  My hobbies - talk to me about Sci-fi and chess. I'm a huge fan of Asimov. I like to play Sicilian Defense.
