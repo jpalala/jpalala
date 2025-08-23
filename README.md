@@ -10,9 +10,9 @@ And as any good developer knows, debugging is just part of the meal! In fact, I 
 
 *   🌍  I'm based in the Philippines
 *   ✉️  You can contact me at [Joe_at_Palala.Dev](mailto:joe@palala.dev) or adding me on Linkedin.
-*   🚀  I like working with Java. For Fronend, I prefer React, but knowledgeable in Angular and Vue.
-*   🤝  I'm  currently looking for work. I previously worked for EnablesGroup where I was mostly working with Symfony and NextJS, a React framework.
-*   ⚡  My hobbies - talk to me about Sci-fi and chess. I'm a huge fan of Asimov. I like to play Sicilian Defense.
+*   🚀  I like working with Java. For the frontend, I prefer React, but knowledgeable in Angular and Vue. 
+*   🤝  I'm  currently looking for work. I previously worked for [EnablesGroup](https://enablesgroup.com/) where I was mostly working with Symfony and NextJS, a React framework for a B2B DTC App. I have previous roles as a Software Engineer at Gappify, HeroTeams, and Willis Towers Watson (as UI Dev).
+*   ⚡  My hobbies - talk to me about Sci-fi and chess. I'm a huge fan of Asimov. I like to play Sicilian Defense in ♟️ (Chess).
 
 ### Skills 
           
