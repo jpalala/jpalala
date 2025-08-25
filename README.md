@@ -1,19 +1,30 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joe Palala
 ==================================================================================================================================
 
-Software Engineer
------------------
+## `0x1: System Architect`
 
-I've spent most of my career building websites, crafting code like a chef preparing the perfect dish. 
+Decades of professional dev cycles, architecting stacks from the ground up. My primary directive: **Ship it.**
 
-And as any good developer knows, debugging is just part of the meal! In fact, I like to say I make unit tests to keep those little digital critters away. I'm not a fan of bugs, especially when they're a result of PHP's mixed types acting like TypeScript's any and using functions with willy-nilly argument orders like haystack and needle. The clock is ticking, and I like to stay on top of the latest technologies. I'm a big fan of :coffee: and would love to talk shop over coffee.
+I've learned to love the `pre-commit` hook that is **unit testing**. It’s the optimal way to avoid **runtime panic** caused by **type coercion** in dynamic languages, particularly the inherent lack of **type safety** in PHP's loose typing and inconsistent function signatures (`strpos($haystack, $needle)` vs. `array_search($needle, $haystack)`). Time is an `O(n)` complexity, and I prefer to stay on the bleeding edge of the dependency graph. Let's `ping` each other over some coffee to **cross-pollinate** knowledge.
 
-*   🌍  I'm based in the Philippines
-*   ✉️  You can contact me at [Joe_at_Palala.Dev](mailto:joe@palala.dev) or adding me on Linkedin.
-*   🚀  I like working with Java. For the frontend, I prefer React, but knowledgeable in Angular and Vue. 
-*   🤝  I'm  currently looking for work. I previously worked for [EnablesGroup](https://enablesgroup.com/) where I was mostly working with Symfony and NextJS, a React framework for a B2B DTC App. 
-*   🔙  I have previous previously held roles at Gappify, HeroTeams, and Willis Towers Watson.
-*   ⚡  My hobbies - talk to me about Sci-fi and chess. I'm a huge fan of Asimov. I like to play Sicilian Defense in ♟️ (Chess).
+---
+
+## `0x2: Current State & Stack`
+
+**Locale:** `philippines`
+**Contact:** `Joe@Palala.Dev` | `linkedin/in/joepalala`
+**Stack:**
+* **Backend:** `Java` (JVM ecosystem, including `Quarkus` and `Spring MVC` like it's a new cool thing), `PHP` and `Laravel`
+* **Frontend:** `React` (primary), `Angular`, `Vue` (proficient)
+**Status:** `unemployed`
+**Previous Role:** `EnablesGroup` (Symfony, NextJS) on a B2B DTC app.
+**Previous Employers:** `Gappify`, `HeroTeams`, `Willis Towers Watson`
+
+---
+
+## `0x3: Hobbies`
+
+**Interests:** `Sci-fi` (Asimov and Arthur C. Clarke!) & plays `chess` (`Sicilian Defense` FTW).
 
 ### Skills 
           
