@@ -20,9 +20,27 @@ I've learned to love the `pre-commit` hook that is **unit testing**. It’s the 
 **Stack:**
 * **Backend:** `Java` (JVM ecosystem, including `Quarkus` and `Spring MVC` like it's a new cool thing), `PHP` and `Laravel`
 * **Frontend:** `React` (primary), `Angular`, `Vue` (proficient)
-**Status:** `unemployed`
-**Previous Role:** `EnablesGroup` (Symfony, NextJS) on a B2B DTC app.
-**Previous Employers:** `Gappify`, `HeroTeams`, `Willis Towers Watson`
+**Status: Looking for work!**
+
+# My brief CV
+
+
+### EnablesGroup | Feb 2025 - Aug 2025
+I worked on a B2B Direct-to-Consumer Shopify app, leveraging Symfony, Next.js, and the Shopify API to create a seamless e-commerce solution.
+
+### Gappify | Feb 2023 - Feb 2025
+As a developer at Gappify, I worked with Laravel, Java, and PHP. I gained a deep appreciation for unit testing in Laravel and implemented it extensively to ensure code quality and stability.
+
+### HeroTeams | Feb 2022 - Oct 2022
+In my role at Hero Teams, I was a key part of the development team for a leave management software. I utilized Node.js and React, where I focused on state management using useReducer to build efficient and reliable front-end applications.
+
+### Willis Towers Watson | May 2017 - Feb 2022
+While at Willis Towers Watson, I worked as a UI Developer, gaining experience with Angular to build user interfaces.
+
+###  Volunteer Work
+I volunteer my time to help maintain the ivolunteer.com.ph web project, contributing to a cause I am passionate about.
+
+**Ping me to learn more**
 
 ---
 
