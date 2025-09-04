@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 My Portfolio site: visit [GetJoe.Dev](https://getjoedev.vercel.app)
 
-## `0x1: System Architect`
+## `0x1: System Architect with PHP and Java`
 
 Decades of professional dev cycles, architecting stacks from the ground up. My primary directive: **Ship it.**
 
@@ -31,8 +31,8 @@ I worked on a B2B Direct-to-Consumer Shopify app, leveraging Symfony, Next.js, a
 ### Gappify | Feb 2023 - Feb 2025
 As a developer at Gappify, I worked with Laravel, Java, and PHP. I gained a deep appreciation for unit testing in Laravel and implemented it extensively to ensure code quality and stability.
 
-### HeroTeams | Feb 2022 - Oct 2022
-In my role at Hero Teams, I was a key part of the development team for a leave management software. I utilized Node.js and React, where I focused on state management using useReducer to build efficient and reliable front-end applications.
+### HeroTeams (Remote) | Feb 2022 - Oct 2022
+In my role at Hero Teams, I was a key part of the development team for a leave management software. I utilized NestJS and React with Typescript, where I focused on making reusable components to make our frontends reliable. 
 
 ### Willis Towers Watson | May 2017 - Feb 2022
 While at Willis Towers Watson, I worked as a UI Developer, gaining experience with Angular to build user interfaces.
