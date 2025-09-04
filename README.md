@@ -61,3 +61,9 @@ I volunteer my time to help maintain the ivolunteer.com.ph web project, contribu
 
 [![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpalala&theme=synthwave)](https://github.com/jpalala)
 
+### One-off projects
+
+Sometimes for a hobby I try to build useful things
+
+- [base64encode.online](https://base64encode.online)
+- [SimpleBizCard](simple-bizcard.surge.sh)
