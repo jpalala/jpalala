@@ -66,4 +66,4 @@ I volunteer my time to help maintain the ivolunteer.com.ph web project, contribu
 Sometimes for a hobby I try to build useful things
 
 - [base64encode.online](https://base64encode.online)
-- [SimpleBizCard](simple-bizcard.surge.sh)
+- [SimpleBizCard](https://simple-bizcard.surge.sh)
