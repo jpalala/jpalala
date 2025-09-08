@@ -1,46 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joe Palala
-==================================================================================================================================
-
-# GetJoe.Dev
-
-My Portfolio site: visit [GetJoe.Dev](https://getjoedev.vercel.app)
-
-## `0x1: System Architect with PHP and Java`
-
-Decades of professional dev cycles, architecting stacks from the ground up. My primary directive: **Ship it.**
-
-I've learned to love the `pre-commit` hook that is **unit testing**. It’s the optimal way to avoid **runtime panic** caused by **type coercion** in dynamic languages, particularly the inherent lack of **type safety** in PHP's loose typing and inconsistent function signatures (`strpos($haystack, $needle)` vs. `array_search($needle, $haystack)`). Time is an `O(n)` complexity, and I prefer to stay on the bleeding edge of the dependency graph. Let's `ping` each other over some coffee to **cross-pollinate** knowledge.
-
+Hi 👋 My name is Joe Palala
 ---
 
-## `0x2: Current State & Stack`
-
-**Locale:** `philippines`
-**Contact:** `Joe@Palala.Dev` | `linkedin/in/joepalala`
-**Stack:**
-* **Backend:** `Java` (JVM ecosystem, including `Quarkus` and `Spring MVC` like it's a new cool thing), `PHP` and `Laravel`
-* **Frontend:** `React` (primary), `Angular`, `Vue` (proficient)
-**Status: Looking for work!**
-
-# My brief CV
 
 
-### EnablesGroup | Feb 2025 - Aug 2025
-I worked on a B2B Direct-to-Consumer Shopify app, leveraging Symfony, Next.js, and the Shopify API to create a seamless e-commerce solution.
+Hello there! I'm currently looking for a job. I'm grateful for the opportunities I've had to develop my skills, and I'm looking for my next challenge. While compensation is important, I'm primarily seeking a company that truly values its team through a **supportive culture**, a **healthy work-life balance**, and a commitment to employee growth. I'm excited to bring my experience in **Fintech and E-commerce** to a role where I can contribute to a great team and a great company.
 
-### Gappify | Feb 2023 - Feb 2025
-As a developer at Gappify, I worked with Laravel, Java, and PHP. I gained a deep appreciation for unit testing in Laravel and implemented it extensively to ensure code quality and stability.
-
-### HeroTeams (Remote) | Feb 2022 - Oct 2022
-In my role at Hero Teams, I was a key part of the development team for a leave management software. I utilized NestJS and React with Typescript, where I focused on making reusable components to make our frontends reliable. 
-
-### Willis Towers Watson | May 2017 - Feb 2022
-While at Willis Towers Watson, I worked as a UI Developer, gaining experience with Angular to build user interfaces.
-
-###  Volunteer Work
-I volunteer my time to help maintain the ivolunteer.com.ph web project, contributing to a cause I am passionate about.
-
-**Ping me to learn more**
+**Ping me to learn more or visit my portfolio site at [https://getjoe.dev](https://getjoedev.vercel.app/)** 
 
 ---
 
