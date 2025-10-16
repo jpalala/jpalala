@@ -3,8 +3,7 @@ Hi 👋 My name is Joe Palala
 
 
 
-Hello there! I'm currently looking for a job. I'm grateful for the opportunities I've had to develop my skills, and I'm looking for my next challenge. While compensation is important, I'm primarily seeking a company that truly values its people through a **supportive culture**, a **healthy work-life balance**, and a commitment to employee growth. I'm excited to bring my experience in **E-commerce** (having worked with integrations with Shopify, Woocommerce, and related customized solutions as a PHP developer) to a role where I can contribute to a great team and a great company.
-
+Hello there! I'm a PHP backend developer but I'm also able to do frontend.
 **Ping me to learn more or visit my portfolio site at [https://getjoe.dev](https://getjoedev.vercel.app/)** 
 
 ---
