@@ -31,3 +31,15 @@ Sometimes for a hobby I try to build useful things
 
 - [base64encode.online](https://base64encode.online)
 - [SimpleBizCard](https://simple-bizcard.surge.sh)
+
+```
+ ____________________
+< U da Goat! up 2:11 >
+ --------------------
+        \   ^__^
+         \  (xx)\_______
+            (__)\       )\/\
+             U  ||----w |
+                ||     ||
+echo "You are using $(grep '^PRETTY_NAME=' /etc/os-release | cut -d= -f2 | tr -d '"') GNU/Linux $(uname -m)"
+```
