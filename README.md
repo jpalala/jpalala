@@ -3,7 +3,10 @@ Hi 👋 My name is Joe Palala
 
 
 
-Hello there! I'm a PHP backend developer but I'm also able to do frontend.
+Hello there! I'm a PHP developer with average frontend and design skills.
+
+I approach development from a strategic perspective: I only build what brings real value. I focus on getting the most important, simplest features (the 'low-hanging fruit') to users fast. This allows us to test, learn, and then continuously improve the product, ensuring every hour we spend is focused on the most successful outcome.
+
 **Ping me to learn more or visit my portfolio site at [https://getjoe.dev](https://getjoedev.vercel.app/)** 
 
 ---
