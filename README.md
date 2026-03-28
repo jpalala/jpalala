@@ -6,9 +6,8 @@ Fullstack dev by day, problem solver by night. 💻 >
 I speak Java, PHP, Python, and JavaScript, weaving it all together with React to build apps that just work.
 
 
-🔗 Portfolio: getjoe.dev
+🔗 Portfolio: getjoe.dev | 📥 Status: Open to new chats and exploring new oppportunities!
 
-📥 Status: Open to new chats!
 ---
 
 ## `0x3: Hobbies`
