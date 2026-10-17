@@ -3,11 +3,11 @@ Hi 👋 My name is Joe Palala
 
 
 Fullstack dev by day, runner by night. 💻 >
-I code in Java, Python, and NodeJS, with UI knowledge that spans a couple of years.  Weaving it all together with React to build apps that are functional, with  an eye for User Experience. I like running because it gives me the feeling that I am alive.
+I code in PHP, Python, Golang and NodeJS, with UI knowledge that spans a couple of years.  Weaving it all together with React to build apps that are functional, with  an eye for User Experience. I like running because it gives me the feeling that I am alive.
 
 I'm a hands-on engineering leader who combines team leadership with practical architecture and coding involvement when needed. I use AI to speed up my deliverables, but keeping the quality airtight. I deliver software and data platforms in an Agile and collaborative mindset.
 
-🔗 Portfolio: getjoe.dev | 📥 Status: Open to new chats and exploring new oppportunities! 
+🔗 Portfolio: getjoe.dev | 📥 Status: Open to new chats! | 💼 Employed 
 
 ---
 
